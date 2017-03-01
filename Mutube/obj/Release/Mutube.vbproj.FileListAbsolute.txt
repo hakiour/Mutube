@@ -1,0 +1,33 @@
+Z:\Mutube\Mutube\bin\Release\Mutube.exe.config
+Z:\Mutube\Mutube\bin\Release\Mutube.exe
+Z:\Mutube\Mutube\bin\Release\Mutube.pdb
+Z:\Mutube\Mutube\bin\Release\Mutube.xml
+Z:\Mutube\Mutube\bin\Release\libvideo.dll
+Z:\Mutube\Mutube\bin\Release\Interop.WMPLib.dll
+Z:\Mutube\Mutube\bin\Release\AxInterop.WMPLib.dll
+Z:\Mutube\Mutube\obj\Release\Interop.WMPLib.dll
+Z:\Mutube\Mutube\obj\Release\AxInterop.WMPLib.dll
+Z:\Mutube\Mutube\obj\Release\Mutube.vbproj.ResolveComReference.cache
+Z:\Mutube\Mutube\obj\Release\Mutube.Mutube.resources
+Z:\Mutube\Mutube\obj\Release\Mutube.Resources.resources
+Z:\Mutube\Mutube\obj\Release\Mutube.vbproj.GenerateResource.Cache
+Z:\Mutube\Mutube\obj\Release\Mutube.exe
+Z:\Mutube\Mutube\obj\Release\Mutube.xml
+Z:\Mutube\Mutube\obj\Release\Mutube.pdb
+D:\programación\Hamza - Apps\Mutube\Mutube\bin\Release\Mutube.exe.config
+D:\programación\Hamza - Apps\Mutube\Mutube\obj\Release\Interop.WMPLib.dll
+D:\programación\Hamza - Apps\Mutube\Mutube\obj\Release\AxInterop.WMPLib.dll
+D:\programación\Hamza - Apps\Mutube\Mutube\obj\Release\Mutube.vbproj.ResolveComReference.cache
+D:\programación\Hamza - Apps\Mutube\Mutube\obj\Release\Mutube.exe
+D:\programación\Hamza - Apps\Mutube\Mutube\obj\Release\Mutube.xml
+D:\programación\Hamza - Apps\Mutube\Mutube\obj\Release\Mutube.pdb
+D:\programación\Hamza - Apps\Mutube\Mutube\bin\Release\Mutube.exe
+D:\programación\Hamza - Apps\Mutube\Mutube\bin\Release\Mutube.pdb
+D:\programación\Hamza - Apps\Mutube\Mutube\bin\Release\Mutube.xml
+D:\programación\Hamza - Apps\Mutube\Mutube\bin\Release\libvideo.dll
+D:\programación\Hamza - Apps\Mutube\Mutube\bin\Release\Interop.WMPLib.dll
+D:\programación\Hamza - Apps\Mutube\Mutube\bin\Release\AxInterop.WMPLib.dll
+D:\programación\Hamza - Apps\Mutube\Mutube\obj\Release\Mutube.Mutube.resources
+D:\programación\Hamza - Apps\Mutube\Mutube\obj\Release\Mutube.Resources.resources
+D:\programación\Hamza - Apps\Mutube\Mutube\obj\Release\Mutube.PanelOpciones.resources
+D:\programación\Hamza - Apps\Mutube\Mutube\obj\Release\Mutube.vbproj.GenerateResource.Cache

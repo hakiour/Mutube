@@ -1,0 +1,52 @@
+Z:\Mutube\Mutube\bin\Debug\Mutube.exe.config
+Z:\Mutube\Mutube\bin\Debug\Mutube.exe
+Z:\Mutube\Mutube\bin\Debug\Mutube.pdb
+Z:\Mutube\Mutube\bin\Debug\Mutube.xml
+Z:\Mutube\Mutube\bin\Debug\libvideo.dll
+Z:\Mutube\Mutube\bin\Debug\Interop.WMPLib.dll
+Z:\Mutube\Mutube\bin\Debug\AxInterop.WMPLib.dll
+Z:\Mutube\Mutube\obj\Debug\Interop.WMPLib.dll
+Z:\Mutube\Mutube\obj\Debug\AxInterop.WMPLib.dll
+Z:\Mutube\Mutube\obj\Debug\Mutube.vbproj.ResolveComReference.cache
+Z:\Mutube\Mutube\obj\Debug\Mutube.Mutube.resources
+Z:\Mutube\Mutube\obj\Debug\Mutube.Resources.resources
+Z:\Mutube\Mutube\obj\Debug\Mutube.vbproj.GenerateResource.Cache
+Z:\Mutube\Mutube\obj\Debug\Mutube.exe
+Z:\Mutube\Mutube\obj\Debug\Mutube.xml
+Z:\Mutube\Mutube\obj\Debug\Mutube.pdb
+D:\Hamza - Apps\Mutube\Mutube\bin\Debug\Mutube.exe.config
+D:\Hamza - Apps\Mutube\Mutube\obj\Debug\Interop.WMPLib.dll
+D:\Hamza - Apps\Mutube\Mutube\obj\Debug\AxInterop.WMPLib.dll
+D:\Hamza - Apps\Mutube\Mutube\obj\Debug\Mutube.vbproj.ResolveComReference.cache
+D:\Hamza - Apps\Mutube\Mutube\obj\Debug\Mutube.exe
+D:\Hamza - Apps\Mutube\Mutube\obj\Debug\Mutube.xml
+D:\Hamza - Apps\Mutube\Mutube\obj\Debug\Mutube.pdb
+D:\Hamza - Apps\Mutube\Mutube\bin\Debug\Mutube.exe
+D:\Hamza - Apps\Mutube\Mutube\bin\Debug\Mutube.pdb
+D:\Hamza - Apps\Mutube\Mutube\bin\Debug\Mutube.xml
+D:\Hamza - Apps\Mutube\Mutube\bin\Debug\libvideo.dll
+D:\Hamza - Apps\Mutube\Mutube\bin\Debug\Interop.WMPLib.dll
+D:\Hamza - Apps\Mutube\Mutube\bin\Debug\AxInterop.WMPLib.dll
+D:\Hamza - Apps\Mutube\Mutube\obj\Debug\Mutube.vbprojResolveAssemblyReference.cache
+D:\Hamza - Apps\Mutube\Mutube\obj\Debug\Mutube.Mutube.resources
+D:\Hamza - Apps\Mutube\Mutube\obj\Debug\Mutube.Resources.resources
+D:\Hamza - Apps\Mutube\Mutube\obj\Debug\Mutube.vbproj.GenerateResource.Cache
+D:\Hamza - Apps\Mutube\Mutube\obj\Debug\Mutube.PanelOpciones.resources
+D:\programación\Hamza - Apps\Mutube\Mutube\bin\Debug\Mutube.exe.config
+D:\programación\Hamza - Apps\Mutube\Mutube\obj\Debug\Interop.WMPLib.dll
+D:\programación\Hamza - Apps\Mutube\Mutube\obj\Debug\AxInterop.WMPLib.dll
+D:\programación\Hamza - Apps\Mutube\Mutube\obj\Debug\Mutube.vbproj.ResolveComReference.cache
+D:\programación\Hamza - Apps\Mutube\Mutube\obj\Debug\Mutube.exe
+D:\programación\Hamza - Apps\Mutube\Mutube\obj\Debug\Mutube.xml
+D:\programación\Hamza - Apps\Mutube\Mutube\obj\Debug\Mutube.pdb
+D:\programación\Hamza - Apps\Mutube\Mutube\bin\Debug\Mutube.exe
+D:\programación\Hamza - Apps\Mutube\Mutube\bin\Debug\Mutube.pdb
+D:\programación\Hamza - Apps\Mutube\Mutube\bin\Debug\Mutube.xml
+D:\programación\Hamza - Apps\Mutube\Mutube\bin\Debug\libvideo.dll
+D:\programación\Hamza - Apps\Mutube\Mutube\bin\Debug\Interop.WMPLib.dll
+D:\programación\Hamza - Apps\Mutube\Mutube\bin\Debug\AxInterop.WMPLib.dll
+D:\programación\Hamza - Apps\Mutube\Mutube\obj\Debug\Mutube.vbprojResolveAssemblyReference.cache
+D:\programación\Hamza - Apps\Mutube\Mutube\obj\Debug\Mutube.Mutube.resources
+D:\programación\Hamza - Apps\Mutube\Mutube\obj\Debug\Mutube.Resources.resources
+D:\programación\Hamza - Apps\Mutube\Mutube\obj\Debug\Mutube.PanelOpciones.resources
+D:\programación\Hamza - Apps\Mutube\Mutube\obj\Debug\Mutube.vbproj.GenerateResource.Cache
